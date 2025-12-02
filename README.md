@@ -1,4 +1,4 @@
-# solana-organic-volume-bot
+# Anti-MEV, Cost-Optimized, Blazing Fast Solana Organic Looking Volume Bot
 Organic Looking Solana Volume Bot in raydium, pumpfun, meteora, bonkfun, pump swap.
 
 ## Features:
